@@ -1,4 +1,4 @@
-# movie_reviews_sentimen_classifications-
+# movie_reviews_sentimen_classifications
 Классификации тональности отзывов на фильмы
 
 ![image](https://github.com/PaslenAmari/movie_reviews_sentimen_classifications-/assets/106679149/8c2f9ab3-b521-4bc2-8488-9d2047f26f90)
